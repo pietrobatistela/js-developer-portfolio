@@ -13,11 +13,11 @@
       },
       {
         "nome": "React",
-        "logo": "hubusercontent.com/pietrobatistela/js-developer-portfolio/refs/heads/projeto-base/assets/img/icons/tools/react.svg"
+        "logo": "https://raw.githubusercontent.com/pietrobatistela/js-developer-portfolio/refs/heads/projeto-base/assets/img/icons/tools/react.svg"
       },
       {
         "nome": "NodeJS",
-        "logo": "hubusercontent.com/pietrobatistela/js-developer-portfolio/refs/heads/projeto-base/assets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/pietrobatistela/js-developer-portfolio/refs/heads/projeto-base/assets/img/icons/tools/nodejs.svg"
       }
     ],
     "softSkills": [
