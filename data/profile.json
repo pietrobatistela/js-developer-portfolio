@@ -33,24 +33,16 @@
     "Inglês (avançado)",
     "Espanhol (iniciante)"
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "Bacharelado em Ciência da Computação",
-      "descricao": "Estudo na área da Tecnologia no geral.",
-      "instituicao": "Universidade Cruzeiro do Sul",
-      "periodo": {
-        "inicio": "2025",
-        "fim": "Atualmente"
-      }
+      "name": "Bacharelado em Ciência da Computação | Universidade Cruzeiro do Sul",
+      "period": "2025 - até o momento",
+      "description": "Estudo na área da Tecnologia no geral."
     },
     {
-      "nome": "Ensino médio integrado com o técnico",
-      "descricao": "Ensino médio realizado juntamente com o técnico em Desenvolvimento de Sistemas.",
-      "instituicao": "Escola Técnica Estadual (ETEC)",
-      "periodo": {
-        "inicio": "2022",
-        "fim": "2024"
-      }
+      "name": "Ensino médio integrado com o técnico | Escola Técnica Estadual (ETEC)",
+      "period": "2022 - 2024",
+      "description": "Ensino médio realizado juntamente com o técnico em Desenvolvimento de Sistemas."
     }
   ],
   "portfolio": [
