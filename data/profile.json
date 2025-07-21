@@ -55,8 +55,9 @@
   ],
   "portfolio": [
     {
-      "nome": "Claudi: Gerenciador de Horários Automático",
-      "gitHub": "https://github.com/pietrobatistela/Projeto-Claudi"
+      "name": "Claudi: Gerenciador de Horários Automático",
+      "url": "https://github.com/pietrobatistela/Projeto-Claudi",
+      "git": true
     }
   ]
 }
