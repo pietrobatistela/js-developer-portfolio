@@ -28,44 +28,28 @@
       "Facilidade de aprendizado"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português BR",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Avançado"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (avançado)",
+    "Espanhol (iniciante)"
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "Bacharelado em Ciência da Computação",
-      "descricao": "Estudo na área da Tecnologia no geral.",
-      "instituicao": "Universidade Cruzeiro do Sul",
-      "periodo": {
-        "inicio": "2025",
-        "fim": "Atualmente"
-      }
+      "name": "Bacharelado em Ciência da Computação | Universidade Cruzeiro do Sul",
+      "period": "2025 - até o momento",
+      "description": "Estudo na área da Tecnologia no geral."
     },
     {
-      "nome": "Ensino médio integrado com o técnico",
-      "descricao": "Ensino médio realizado juntamente com o técnico em Desenvolvimento de Sistemas.",
-      "instituicao": "Escola Técnica Estadual (ETEC)",
-      "periodo": {
-        "inicio": "2022",
-        "fim": "2024"
-      }
+      "name": "Ensino médio integrado com o técnico | Escola Técnica Estadual (ETEC)",
+      "period": "2022 - 2024",
+      "description": "Ensino médio realizado juntamente com o técnico em Desenvolvimento de Sistemas."
     }
   ],
   "portfolio": [
     {
-      "nome": "Claudi: Gerenciador de Horários Automático",
-      "gitHub": "https://github.com/pietrobatistela/Projeto-Claudi"
+      "name": "Claudi: Gerenciador de Horários Automático",
+      "url": "https://github.com/pietrobatistela/Projeto-Claudi",
+      "github": true
     }
   ]
 }
