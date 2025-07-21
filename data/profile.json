@@ -28,19 +28,10 @@
       "Facilidade de aprendizado"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português BR",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Avançado"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (avançado)",
+    "Espanhol (iniciante)"
   ],
   "educacao": [
     {
