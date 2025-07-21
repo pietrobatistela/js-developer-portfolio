@@ -1,12 +1,9 @@
 {
-  "nome": "Pietro Batistela",
-  "titulo": "Desenvolvedor Júnior",
-  "localidade": {
-    "cidade": "São Paulo",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(11) 98166-3416",
+  "name": "Pietro Martins Batistela",
+  "photo": "https://avatars.githubusercontent.com/u/142548873?v=4",
+  "job": "Desenvolvedor Júnior",
+  "location": "São Paulo - SP",
+  "phone": "(11) 98166-3416",
   "email": "pietromartinsb15@gmail.com",
   "skills": {
     "hardSkills": [
